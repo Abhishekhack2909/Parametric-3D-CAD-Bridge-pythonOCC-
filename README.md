@@ -385,17 +385,6 @@ This project uses pythonocc-core which is licensed under LGPL 3.0.
 
 <div align="center">
 
-## 👨‍💻 Author
-
-**Abhishek**  
-2nd Year Student  
-FOSSEE Summer Fellowship 2026 - Osdag Task 1  
-Parametric 3D Bridge Modeling using pythonocc-core 7.9.3
-
----
-
-Made with ❤️ for FOSSEE Osdag
-
 [⬆ Back to Top](#-parametric-3d-bridge-model)
 
 </div>
